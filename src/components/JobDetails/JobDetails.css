@@ -1,0 +1,12 @@
+.job-details{
+    width: 100%;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+.description{
+    width: 40%; 
+}
+.description p{
+    margin-top: 20px;
+}

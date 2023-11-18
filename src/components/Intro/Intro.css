@@ -1,0 +1,20 @@
+.intro{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: space-around; 
+    align-items: center;
+    background-color: aliceblue;
+    
+}
+.intro img{
+    height: 350px;
+    width: 300px;
+}
+.intro h2{
+    font-size: 50px;
+}
+.intro-text-part{
+    padding: 50px;
+    text-align: center; 
+}

@@ -1,0 +1,13 @@
+.job-category-list{
+    text-align: center;
+    padding: 80px;
+}
+.categories div{
+    width: 20%;
+    background-color: aliceblue;
+    padding: 20px;
+}
+.categories{
+    display: flex;
+    margin: 20px; 
+}

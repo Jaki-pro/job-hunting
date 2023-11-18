@@ -1,0 +1,31 @@
+.header{
+    display: flex;
+    background-color: rgb(38, 109, 109);
+    justify-content: space-between;
+    line-height: 50px;
+    align-items: center;
+    padding: 10px;
+}
+.header h4{
+    font-weight: 200;
+    font-size: 35px;
+}
+.active{
+    border-radius: 20px;
+    background-color: rgb(29, 97, 97);
+}
+.header a{
+    text-decoration: none;
+    padding: 10px;
+    font-size: 25px;
+    text-align: center;
+    color: aliceblue; 
+}
+.header button{
+    padding: 20px;
+    height: 30px;
+    margin-right: 10%;
+}
+.header a:hover{
+    text-decoration: underline;
+}

@@ -1,0 +1,16 @@
+.applied-job{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin: 10px;
+    border: 4px solid rgb(224, 222, 215);
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+.applied-job img{
+    height: 140px;
+    width: 200px;
+    border: 4px solid rgb(224, 222, 215);
+    border-radius: 10px;
+}
